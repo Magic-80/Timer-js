@@ -17,12 +17,12 @@
 
 @font-face {
   font-family: 'RedHatTextRegular';
-  src: url('./assets/fonts/RedHatTextRegular.ttf');
+  src: url('../fonts/RedHatTextRegular.ttf');
 }
 
 @font-face {
   font-family: 'RedHatTextBold';
-  src: url('./assets/fonts/RedHatText-Bold.ttf');
+  src: url('../fonts/RedHatText-Bold.ttf');
 }
 
 body {
